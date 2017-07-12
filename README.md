@@ -1,6 +1,6 @@
 # Otalk
 
-Note: See also https://github.com/otalk for more code
+Note: See also https://github.com/bonber for more code
 
 ## What is it?
 Otalk is an open source chat client powered by [XMPP](http://xmpp.org), [stanza.io](https://github.com/legastero/stanza.io), and [WebRTC](http://webrtc.org). You can think of it as an open source alternative to Skype.
@@ -9,7 +9,7 @@ While we have a version hosted at https://otalk.im, you can still run your own p
 
 ## Installing
 
-    git clone https://github.com/andyet/otalk.git
+    git clone https://github.com/bonber/cliente-xmpp.git
     cd otalk
     npm install
     node server
